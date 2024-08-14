@@ -23,7 +23,7 @@ const Navbar = () => {
       <nav className="container px-[3%] mx-auto flex items-center justify-between h-full">
         <div className="flex items-center gap-3">
           <Link to={"/"}>
-          <img className="bg-lightBlueCustom max-w-[800px] w-[150px]" src={Logo} alt="" />
+          <img className="bg-lightBlueCustom max-w-[500px] w-[120px] opacity-90 " src={Logo} alt="" />
           </Link>
         </div>
         <div
