@@ -37,7 +37,7 @@ This project aims to create a fully functional e-commerce website where users ca
 
 ## Installation
 
-1. Clone the repository: `git clone git@github.com:vitorfnery/ecommerce-website.git`
+1. Clone the repository: `https://github.com/saksharora/E-Commerce_website.git`
 2. Navigate to the project directory: `cd your_project`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm run dev`
