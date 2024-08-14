@@ -10,7 +10,6 @@ Welcome to the **E-commerce - React & Tailwind** project! This is a modern e-com
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Overview
@@ -32,7 +31,7 @@ This project aims to create a fully functional e-commerce website where users ca
 
 - **Frontend**: React.js
 - **Styling**: Tailwind CSS
-- **Package Manager**: Yarn or npm
+- **Package Manager**: npm
 - **Build Tool**: Vite.js (for fast development and optimized production builds)
 
 ## Installation
@@ -58,10 +57,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the SAKSH ARORA. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
