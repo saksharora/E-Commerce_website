@@ -14,7 +14,7 @@ Welcome to the **E-commerce - React & Tailwind** project! This is a modern e-com
 
 ## Project Overview
 
-This project aims to create a fully functional e-commerce website where users can browse products, add items to their cart, apply discount codes, and complete purchases. The UI is styled with Tailwind CSS, ensuring a responsive and visually appealing design across all devices.
+This project aims to create a fully functional e-commerce website where users can browse products, add items to their cart, apply discount codes, and complete purchases. The UI is styled with Tailwind CSS, ensuring a responsive and visually appealing design across all devices. Data for the products is sourced from the [Fakestore API](https://fakestoreapi.com).
 
 ## Features
 
@@ -33,6 +33,7 @@ This project aims to create a fully functional e-commerce website where users ca
 - **Styling**: Tailwind CSS
 - **Package Manager**: npm
 - **Build Tool**: Vite.js (for fast development and optimized production builds)
+- **Data Source**: [Fakestore API](https://fakestoreapi.com)
 
 ## Installation
 
@@ -70,5 +71,5 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 For any inquiries or suggestions, feel free to reach out:
 
-- **GitHub**: [yourusername](https://github.com/saksharora)
+- **GitHub**: [saksharora](https://github.com/saksharora)
 - **Email**: saksh1359arora@gmail.com
