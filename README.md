@@ -45,7 +45,15 @@ This project aims to create a fully functional e-commerce website where users ca
 
 - **Browse Products**: Explore the product catalog.
 - **Add to Cart**: Select items and add them to your shopping cart.
-- **Apply Discount Code**: Enter a discount code and click "Apply Discount" to see the reduced price.
+- **Apply Discount Code**: Enter a discount code and click "Apply Discount" to see the reduced price. 
+
+  ### Available Discount Coupons for Testing:
+  - **SAVE10**: 10% off (percentage-based)
+  - **SAVE20**: 20% off (percentage-based)
+  - **SAVE30**: 30% off (percentage-based)
+  - **FIXED50**: ₹50 off (fixed amount)
+  - **FIXED70**: ₹70 off (fixed amount)
+
 - **Checkout**: Proceed to checkout to complete your purchase.
 
 ## Contributing
