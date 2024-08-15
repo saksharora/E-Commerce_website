@@ -32,11 +32,14 @@ This project aims to create a fully functional e-commerce website where users ca
 ## Videos
 
 ### Project Demo
+
+### Video Tutorial
+
 <p align="center">
-  <img src="src/assets/project_demo.gif" alt="Project Demo" width="800"/>
+  <a href="https://www.youtube.com/watch?v=qwiQoHVzsnY">
+    <img src="https://img.youtube.com/vi/qwiQoHVzsnY/0.jpg" alt="Watch the video" />
+  </a>
 </p>
-
-
 
 
 
@@ -51,7 +54,9 @@ This project aims to create a fully functional e-commerce website where users ca
 
 ### Compatibility Check with Various Screen Sizes
 <p align="center">
-  <img src="src/assets/screen_check.gif" alt="Compatibility Check" width="800"/>
+  <a href="https://www.youtube.com/watch?v=8CVTIHidm0A">
+    <img src="https://img.youtube.com/vi/8CVTIHidm0A/0.jpg" alt="Watch the video" />
+  </a>
 </p>
 
 
