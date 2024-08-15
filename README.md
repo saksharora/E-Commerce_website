@@ -6,11 +6,13 @@ Welcome to the **E-commerce - React & Tailwind** project! This is a modern e-com
 
 - [Project Overview](#project-overview)
 - [Features](#features)
+- [Videos](#videos)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
+
 
 ## Project Overview
 
@@ -27,6 +29,17 @@ This project aims to create a fully functional e-commerce website where users ca
 - **Custom CSS**: Tailwind CSS configuration tailored to the project's needs.
 - **Cross-Browser Compatibility**: Ensures consistent performance across various web browsers.
 
+## Videos
+
+### Project Demo
+<p align="center">
+  <img src="src/assets/project_demo.gif" alt="Project Demo" width="800"/>
+</p>
+
+
+
+
+
 ## Tech Stack
 
 - **Frontend**: React.js
@@ -34,6 +47,13 @@ This project aims to create a fully functional e-commerce website where users ca
 - **Package Manager**: npm
 - **Build Tool**: Vite.js (for fast development and optimized production builds)
 - **Data Source**: [Fakestore API](https://fakestoreapi.com)
+
+
+### Compatibility Check with Various Screen Sizes
+<p align="center">
+  <img src="src/assets/screen_check.gif" alt="Compatibility Check" width="800"/>
+</p>
+
 
 ## Installation
 
@@ -73,3 +93,4 @@ For any inquiries or suggestions, feel free to reach out:
 
 - **GitHub**: [saksharora](https://github.com/saksharora)
 - **Email**: saksh1359arora@gmail.com
+
